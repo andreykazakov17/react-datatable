@@ -1,0 +1,143 @@
+  
+[
+    {
+      "id": 1,
+      "fullName": "Luke Skylwalker",
+      "address": "495 Galaxy Ave",
+      "phoneNumber": "8491-655-1684",
+      "email": "masterjedi@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "C-3PO",
+      "address": "89 Droid Dr",
+      "phoneNumber": "1256-163-7562",
+      "email": "goldguy@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Darth Vader",
+      "address": "62 Anger Ave",
+      "phoneNumber": "8491-952-1328",
+      "email": "iwasachosenone@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Leia Organa",
+      "address": "32 Princess St",
+      "phoneNumber": "9841-325-7891",
+      "email": "prettiestingalaxy@email.com"
+    },
+    {
+      "id":5,
+      "fullName": "Obi-Wan Kenobi",
+      "address": "97 Master St",
+      "phoneNumber": "9848-312-9871",
+      "email": "bestmaster@email.com"
+    },
+    {
+      "id": 6,
+      "fullName": "Chewbacca",
+      "address": "12 Wrraaawwhh Ave",
+      "phoneNumber": "9841-231-9871",
+      "email": "chewbacca@email.com"
+    },
+    {
+      "id": 7,
+      "fullName": "Han Solo",
+      "address": "84 Falcon Dr",
+      "phoneNumber": "5651-231-9781",
+      "email": "fastestpilot@email.com"
+    },
+    {
+      "id": 8,
+      "fullName": "Jabba Hutt",
+      "address": "666 Hutt St",
+      "phoneNumber": "8912-983-2189",
+      "email": "masterofslaves@email.com"
+    },
+    {
+      "id": 9,
+      "fullName": "Yoda",
+      "address": "77 DoOrNot St",
+      "phoneNumber": "8491-655-1684",
+      "email": "hmmmmm@email.com"
+    },
+    {
+      "id": 10,
+      "fullName": "Palpatine",
+      "address": "15 Power Ave",
+      "phoneNumber": "1597-518-3215",
+      "email": "absolutepower@email.com"
+    },
+    {
+      "id": 11,
+      "fullName": "Boba Fett",
+      "address": "89 Mercenary St",
+      "phoneNumber": "5892-265-9812",
+      "email": "thisistheway@email.com"
+    },
+    {
+      "id": 12,
+      "fullName": "Lando Calrissian",
+      "address": "89 Cloud St",
+      "phoneNumber": "9812-982-8322",
+      "email": "daddyofthecolony@email.com"
+    },
+    {
+      "id": 13,
+      "fullName": "Qui-Gon Jinn",
+      "address": "98 Liam Neeson Ave",
+      "phoneNumber": "3564-982-3198",
+      "email": "liamneesondestroyall@email.com"
+    },
+    {
+      "id": 14,
+      "fullName": "Padmé Amidala",
+      "address": "98 Senator Dr",
+      "phoneNumber": "3197-128-2316",
+      "email": "iloveanakin@email.com"
+    },
+    {
+      "id": 15,
+      "fullName": "Watto",
+      "address": "84 Tattoine St",
+      "phoneNumber": "894-981-2218",
+      "email": "bzzzzzz@email.com"
+    },
+    {
+      "id": 16,
+      "fullName": "Darth Maul",
+      "address": "156 Sith Ct",
+      "phoneNumber": "1233-987-1239",
+      "email": "iwilldestroykenobi@email.com"
+    },
+    {
+      "id": 17,
+      "fullName": "Mace Windu",
+      "address": "89 Council St",
+      "phoneNumber": "8971-129-2364",
+      "email": "orderandforce@email.com"
+    },
+    {
+      "id": 18,
+      "fullName": "Dooku",
+      "address": "98 Separatist Ave",
+      "phoneNumber": "9423-982-2136",
+      "email": "jediorderisfunplace@email.com"
+    },
+    {
+      "id": 19,
+      "fullName": "Rey",
+      "address": "12 Jakku Ave",
+      "phoneNumber": "3941-217-3914",
+      "email": "iwillfindmasterluke@email.com"
+    },
+    {
+      "id": 20,
+      "fullName": "BB8",
+      "address": "81 Droid Ave",
+      "phoneNumber": "8912-238-7942",
+      "email": "wuyyiii@email.com"
+    }
+  ]
